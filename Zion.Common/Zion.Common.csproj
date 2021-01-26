@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Alexandre Laranjeiras</Authors>
+    <Company />
+    <Description>A set of common classes and tools to improve your productivity.</Description>
+    <PackageProjectUrl>github.com/Laranjeiras/Zion.Common</PackageProjectUrl>
+    <Version>3.1.1</Version>
+    <RepositoryUrl>github.com/Laranjeiras/Zion.Common</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+</Project>
