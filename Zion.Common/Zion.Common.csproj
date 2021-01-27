@@ -1,14 +1,17 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageTags>NuGet;.NETCore 3.1;Classlib;GitHub;Actions</PackageTags>
     <Authors>Alexandre Laranjeiras</Authors>
     <Company />
-    <Description>A set of common classes and tools to improve your productivity.</Description>
-    <PackageProjectUrl>github.com/Laranjeiras/Zion.Common</PackageProjectUrl>
+    <Description>A set of common classes and tools to improve your productivity.
+github.com/laranjeiras
+laranja22@hotmail.com</Description>
     <Version>3.1.1</Version>
+    <RepositoryType>github</RepositoryType>
     <RepositoryUrl>github.com/Laranjeiras/Zion.Common</RepositoryUrl>
-    <RepositoryType>git</RepositoryType>
+    <PackageId>Zion.Common</PackageId>
   </PropertyGroup>
 
 </Project>
