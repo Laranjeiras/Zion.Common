@@ -1,4 +1,4 @@
-name: Zion.Common + Pack + Push no NuGet
+name: Zion.Common + Pack + Push no NuGet (TEST)
 
 on:
   push:
